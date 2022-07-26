@@ -16,7 +16,7 @@ class PdfViewerView extends Views {
         {
           path: `/pdf-viewer`,
           licenseKey: PDFJS_KEY,
-          initialDoc: "/docs/cv.pdf",
+          initialDoc: "/docs/test.pdf",
         },
         this.#pdfViewerContainer
       );

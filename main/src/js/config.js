@@ -9,7 +9,7 @@ export const LIGHT_THEME_NAME_IN_LOCAL_STORAGE = "lightTheme";
 export const WRITING_SPEED_IN_MILLISECONDS = 90;
 
 export const FORM_API =
-  "https://getform.io/f/003c358e-025f-4b54-a072-542dd32bccbd";
+  "https://getform.io/f/9f5822fd-f5b7-41e4-84d1-6385177ee0c9";
 
 export const AJAX_CALL_TIMEOUT_SECONDS = 8;
 
@@ -184,14 +184,6 @@ export const WINDOW_MARKUP = {
     </p>
 
     <div class="window-items">
-      <div class="window-item">
-        <label>Primary email address (Preferred):</label>
-        <a
-          href="mailto:moqueteperez@gmail.com?subject=From Omar Moquete's portfolio:&nbsp;"
-        >
-          <p>moqueteperez@gmail.com</p>
-        </a>
-      </div>
 
       <div class="window-item">
         <label>Secondary email address:</label>
@@ -200,12 +192,6 @@ export const WINDOW_MARKUP = {
           target="_blank"
         >
           <p>moqueteperez@outlook.com</p>
-        </a>
-      </div>
-      <div class="window-item">
-        <label>Phone number (for calls, WhatsApp and Telegram):</label>
-        <a class="footer-link__item" href="tel:+1 9292391161" target="_blank">
-          <p>+1 929-239-1161</p>
         </a>
       </div>
 
